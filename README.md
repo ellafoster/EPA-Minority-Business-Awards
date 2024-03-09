@@ -14,5 +14,8 @@ We will build and deploy a classificiation prediction model using binary bayes f
 ## Usage
 Please download and unzip the file FY2023_068_Contracts_Full_20240214_1.csv.zip and columns_selected.csv onto your machine's hard disk in order to run the code. 
 
+## Link to Presentation
+https://www.canva.com/design/DAF_CGlabKU/KK4dwZY20QWqqzfd7KyW1Q/edit
+
 ## Credits
 Ella Foster, Andrew Xu, Yannick Angouo Lopes, Diego Estuar
