@@ -12,7 +12,7 @@ The EPA award application process can be a long and confusing process and stakeh
 We will build and deploy a classificiation prediction model using binary bayes for stakeholders to input characteristics of their business and receive an output that will estimate a potential EPA grant award amount to expect. The potential amount will either be less than $940,000 between 940,000 and 7 million or greater than $7 million.
 
 ## Usage
-Please download and unzip the file FY2023_068_Contracts_Full_20240214_1.csv.zip onto your machine's hard disk in order to run the code. 
+Please download and unzip the file FY2023_068_Contracts_Full_20240214_1.csv.zip and columns_selected.csv onto your machine's hard disk in order to run the code. 
 
 ## Credits
 Ella Foster, Andrew Xu, Yannick Angouo Lopes, Diego Estuar
